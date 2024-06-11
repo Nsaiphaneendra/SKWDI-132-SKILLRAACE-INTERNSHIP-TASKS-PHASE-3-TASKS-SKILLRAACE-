@@ -15,3 +15,8 @@ Overall, this project provides an excellent example of how to create a real-time
 Scripting Language: HTML, CSS, JAVASCRIPT
 
 backend: agora.io
+
+The project is live at : -
+
+https://gossipbox.netlify.app/
+
